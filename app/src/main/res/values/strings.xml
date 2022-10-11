@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RickAndMorty_mvp</string>
+    <string name="character_name_txt_view">Имя:</string>
+    <string name="character_status_txt_view">Статус:</string>
+    <string name="character_species_txt_view">Вид:</string>
+    <string name="character_gender_txt_view">Пол:</string>
+</resources>
